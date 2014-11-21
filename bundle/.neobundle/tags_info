@@ -1,0 +1,12 @@
+YouCompleteMe
+ctrlp.vim
+neobundle.vim
+neosnippet-snippets
+neosnippet.vim
+nerdtree
+syntastic
+vim-airline
+vim-colors-solarized
+vim-fugitive
+vim-rails
+vim-ruby
