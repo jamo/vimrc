@@ -21,7 +21,7 @@ NeoBundle 'vim-ruby/vim-ruby.git'
 NeoBundle 'tpope/vim-rails.git'
 NeoBundle 'bling/vim-airline'
 NeoBundle 'kien/ctrlp.vim' " TODO: make this lazy
-NeoBundleLazy 'scrooloose/nerdtree.git'
+NeoBundle 'scrooloose/nerdtree.git'
 NeoBundle  'tpope/vim-fugitive'
 NeoBundle 'https://github.com/altercation/vim-colors-solarized.git'
 NeoBundle 'Valloric/YouCompleteMe', {
